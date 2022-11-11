@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    /* background-color: green; */
+    height: 10%;
+    display: flex;
+    justify-content: space-around;
+}
+.leftnavbar{
+    display: flex;
+    align-items: left;
+}
+.left-btn{
+    border: none;
+    background-color:white;
+    margin:5px
+
+}
+.logo-img{
+    height: 50px;
+    padding: 5px;
+}
+.content{
+    background-color:yellow;
+}
+.footer{
+    background-color: black;
+}
